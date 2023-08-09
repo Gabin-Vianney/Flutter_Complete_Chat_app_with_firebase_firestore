@@ -1,0 +1,5 @@
+1. Add Firebase to android
+2.to ios
+3.to web
+4.firebase.initializeApp()=> android and ios
+5.firebase.initializeApp(options:)
